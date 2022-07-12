@@ -1,0 +1,4 @@
+22:9:23 => [error]first log message!
+22:9:23 => [error]/home/lai/mprpc/example/callee/friendservice.cc:54
+22:9:23 => [info]service_name: FriendServiceRpc
+22:9:23 => [info]method_name: GetFriendLists

@@ -1,0 +1,8 @@
+4:16:1 => [error]first log message!
+4:16:1 => [error]/home/lai/mprpc/example/callee/friendservice.cc:54
+4:16:1 => [info]service_name: FriendServiceRpc
+4:16:1 => [info]method_name: GetFriendLists
+4:29:7 => [error]first log message!
+4:29:7 => [error]/home/lai/mprpc/example/callee/friendservice.cc:54
+4:29:7 => [info]service_name: FriendServiceRpc
+4:29:7 => [info]method_name: GetFriendLists

@@ -1,0 +1,16 @@
+1:56:50 => [error]first log message!
+1:56:50 => [error]/home/lai/mprpc/example/callee/friendservice.cc:54
+1:56:50 => [info]service_name: FriendServiceRpc
+1:56:50 => [info]method_name: GetFriendLists
+1:59:33 => [error]first log message!
+1:59:33 => [error]/home/lai/mprpc/example/callee/friendservice.cc:54
+1:59:33 => [info]service_name: FriendServiceRpc
+1:59:33 => [info]method_name: GetFriendLists
+2:12:30 => [error]first log message!
+2:12:30 => [error]/home/lai/mprpc/example/callee/friendservice.cc:54
+2:12:30 => [info]service_name: FriendServiceRpc
+2:12:30 => [info]method_name: GetFriendLists
+2:21:13 => [error]first log message!
+2:21:13 => [error]/home/lai/mprpc/example/callee/friendservice.cc:54
+2:21:13 => [info]service_name: FriendServiceRpc
+2:21:13 => [info]method_name: GetFriendLists
