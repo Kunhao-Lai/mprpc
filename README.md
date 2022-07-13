@@ -7,6 +7,9 @@
 3. 使用服务器中间件ZooKeeper的服务注册和服务发现机制，实现了分布式下的服务发现功能。 
 
 ## 基本框架
+<div align="center">
+  <img src="https://github.com/Kunhao-Lai/mprpc/blob/main/mprpc.png">
+</div>
 
 
 ## 预编译环境
@@ -18,17 +21,31 @@
 
 ## 项目目录
 mprpc-------bin                 可执行文件
+
        |----build               项目编译文件
+       
        |----lib                 项目库文件
+       
        |----src                 源文件
+       
              |------include     头文件
+             
              |------logger.cc               日志类
+             
              |------mprpcapplication.cc     框架类
+             
              |------mprpcchannel.cc         服务使用类
+             
              |------rpcprovider.cc          服务提供类
+             
              |------mprpcconfig.cc          配置类
+             
              |------zookeeperutil.cc        zookeeper类
+             
        |----test                测试代码
+       
        |----example             框架使用范例
+       
        |----CMakeLists.txt      顶层的CMake文件
+       
        |----autobuild.sh        一键编译脚本
