@@ -6,10 +6,6 @@
 2. 使用互斥量和条件变量实现线程安全的缓冲队列，实现了异步的日志输出。
 3. 使用服务器中间件ZooKeeper的服务注册和服务发现机制，实现了分布式下的服务发现功能。 
 
-## RPC基本原理
-<div align="center">
-  <img src="https://blog.csdn.net/zht245648124/article/details/90340924?spm=1001.2101.3001.6650.5&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Edefault-5-90340924-blog-124395064.pc_relevant_multi_platform_whitelistv1&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Edefault-5-90340924-blog-124395064.pc_relevant_multi_platform_whitelistv1">
-</div>
 
 ## 基本框架
 <div align="center">
